@@ -26,27 +26,25 @@ Template code is provided in the `*.ipynb` jupyter notebook file. You will also 
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `student_intervention/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `iris-dataset/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython *.ipynb
+ipython iris_notebook.ipynb
 ```  
 or
 ```bash
-jupyter notebook *.ipynb
+jupyter notebook iris_notebook.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
-The dataset used in this project is included as `data.csv`. This dataset is a freely available on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/). This dataset has the following attributes:
+The dataset used in this project is included as `iris.csv`. This dataset is a freely available on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/). This dataset has the following attributes:
 
 **Features**
-1.  `Features`: Description
+1.  `Features`: SepalLengthCm , SepalWidthCm, PetalLengthCm, PetalWidthCm
 
 **Target Variable**
 
-4. `Target`: Description
-
-### 
+4. `Target`: Species
