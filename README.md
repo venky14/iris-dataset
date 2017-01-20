@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges) ![Python](https://img.shields.io/badge/python-2.x-orange.svg)
 ![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg) ![Type](https://img.shields.io/badge/Type-Spervised-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
 
 ### Install
 
@@ -22,7 +23,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the `*.ipynb` jupyter notebook file. You will also be required to use the `data.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+Template code is provided in the `iris_notebook.ipynb` jupyter notebook file. You will also be required to use the `data.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
 
 ### Run
 
